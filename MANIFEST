@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/WebService-CityGrid-Content-Offers.t
+lib/WebService-CityGrid-Content-Offers.pm

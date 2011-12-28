@@ -1,0 +1,6 @@
+Revision history for Perl extension WebService-CityGrid-Content-Offers.
+
+0.01  Tue Dec  6 23:11:07 2011
+	- original version; created by h2xs 1.23 with options
+		-X WebService-CityGrid-Content-Offers
+
